@@ -7,14 +7,12 @@
 //
 
 import UIKit
-import SwiftyBeaver
 
 class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
-        SwiftyBeaver.custom(level: .info, message: "Yo!")
     }
 
 

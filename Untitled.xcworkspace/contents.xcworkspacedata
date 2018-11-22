@@ -4,7 +4,4 @@
    <FileRef
       location = "container:Page.xcodeproj">
    </FileRef>
-   <FileRef
-      location = "group:../SwiftyBeaver/SwiftyBeaver.xcodeproj">
-   </FileRef>
 </Workspace>
